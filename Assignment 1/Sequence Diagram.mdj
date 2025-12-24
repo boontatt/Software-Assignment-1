@@ -3881,7 +3881,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3889,7 +3890,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3897,7 +3899,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role3"
+							"name": "Role3",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3905,7 +3908,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3913,7 +3917,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role5"
+							"name": "Role5",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3921,7 +3926,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO4X4jHEh8vU="
 							},
-							"name": "Role6"
+							"name": "Role6",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -3959,21 +3965,6 @@
 									"name": "Submit Product",
 									"ownedViews": [
 										{
-											"_type": "UMLActivationView",
-											"_id": "AAAAAAGbPAbjdXcqCGo=",
-											"_parent": {
-												"$ref": "AAAAAAGbPAbjdXcmXzo="
-											},
-											"model": {
-												"$ref": "AAAAAAGbPAbjdXclowY="
-											},
-											"font": "Arial;13;0",
-											"left": 722,
-											"top": 128,
-											"width": 14,
-											"height": 473
-										},
-										{
 											"_type": "UMLFrameView",
 											"_id": "AAAAAAGbO+ePknbRwHk=",
 											"_parent": {
@@ -3990,9 +3981,9 @@
 														"$ref": "AAAAAAGbO+ePknbRwHk="
 													},
 													"font": "Arial;13;0",
-													"left": 120.72998046875,
+													"left": 118.55908203125,
 													"top": 29,
-													"width": 89.87353515625,
+													"width": 82.25634765625,
 													"height": 13,
 													"text": "Submit Product"
 												},
@@ -4005,7 +3996,7 @@
 													"font": "Arial;13;1",
 													"left": 101,
 													"top": 29,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -4487,9 +4478,9 @@
 														"$ref": "AAAAAAGbPAmz/ndZjY0="
 													},
 													"font": "Arial;13;0",
-													"left": 200.72998046875,
+													"left": 199.99365234375,
 													"top": 213,
-													"width": 146.2216796875,
+													"width": 137.474609375,
 													"height": 13,
 													"text": "FulfillProjectRequirement"
 												},
@@ -4502,7 +4493,7 @@
 													"font": "Arial;13;1",
 													"left": 181,
 													"top": 213,
-													"width": 14.72998046875,
+													"width": 13.99365234375,
 													"height": 13,
 													"text": "alt"
 												},
@@ -4535,7 +4526,7 @@
 																	"font": "Arial;13;0",
 																	"left": 196,
 																	"top": 246,
-																	"width": 21.68359375,
+																	"width": 21.658203125,
 																	"height": 13,
 																	"text": "[no]"
 																}
@@ -4568,7 +4559,7 @@
 																	"font": "Arial;13;0",
 																	"left": 196,
 																	"top": 528,
-																	"width": 27.45361328125,
+																	"width": 25.9873046875,
 																	"height": 13,
 																	"text": "[yes]"
 																}
@@ -4733,9 +4724,9 @@
 														"$ref": "AAAAAAGbPA53B3hDzyc="
 													},
 													"font": "Arial;13;0",
-													"left": 261.07177734375,
+													"left": 259.61181640625,
 													"top": 317,
-													"width": 55.9072265625,
+													"width": 50.83544921875,
 													"height": 13,
 													"text": "Resubmit"
 												},
@@ -4748,7 +4739,7 @@
 													"font": "Arial;13;1",
 													"left": 237,
 													"top": 317,
-													"width": 19.07177734375,
+													"width": 17.61181640625,
 													"height": 13,
 													"text": "opt"
 												},
@@ -4781,7 +4772,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 350,
-																	"width": 57.07177734375,
+																	"width": 54.15185546875,
 																	"height": 13,
 																	"text": "[resubmit]"
 																}
@@ -4840,9 +4831,9 @@
 														"$ref": "AAAAAAGbPBYyd3ixiBI="
 													},
 													"font": "Arial;13;0",
-													"left": 353.1708984375,
+													"left": 352.42822265625,
 													"top": 397,
-													"width": 634.8291015625,
+													"width": 635.57177734375,
 													"height": 13,
 													"text": "Submit Product"
 												},
@@ -4855,7 +4846,7 @@
 													"font": "Arial;13;1",
 													"left": 317,
 													"top": 397,
-													"width": 16.1708984375,
+													"width": 15.42822265625,
 													"height": 13,
 													"text": "ref"
 												}
@@ -5341,9 +5332,9 @@
 														"$ref": "AAAAAAGbPCCVeHmqdrQ="
 													},
 													"font": "Arial;13;0",
-													"left": 256.72998046875,
+													"left": 255.99365234375,
 													"top": 621,
-													"width": 121.64990234375,
+													"width": 111.50634765625,
 													"height": 13,
 													"text": "ReviewSubmmission"
 												},
@@ -5356,7 +5347,7 @@
 													"font": "Arial;13;1",
 													"left": 237,
 													"top": 621,
-													"width": 14.72998046875,
+													"width": 13.99365234375,
 													"height": 13,
 													"text": "alt"
 												},
@@ -5389,7 +5380,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 654,
-																	"width": 114.16259765625,
+																	"width": 103.61279296875,
 																	"height": 13,
 																	"text": "[accept submission]"
 																}
@@ -5422,7 +5413,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 760,
-																	"width": 117.7744140625,
+																	"width": 109.73828125,
 																	"height": 13,
 																	"text": "[request for revision]"
 																}
@@ -5920,9 +5911,9 @@
 														"$ref": "AAAAAAGbPCUuAnpIgmA="
 													},
 													"font": "Arial;13;0",
-													"left": 277.07177734375,
+													"left": 275.61181640625,
 													"top": 861,
-													"width": 97.08447265625,
+													"width": 89.82275390625,
 													"height": 13,
 													"text": "PerformRevision"
 												},
@@ -5935,7 +5926,7 @@
 													"font": "Arial;13;1",
 													"left": 253,
 													"top": 861,
-													"width": 19.07177734375,
+													"width": 17.61181640625,
 													"height": 13,
 													"text": "opt"
 												},
@@ -6585,9 +6576,9 @@
 														"$ref": "AAAAAAGbPCxK9nsDYoc="
 													},
 													"font": "Arial;13;0",
-													"left": 1371.578125,
+													"left": 1370.11181640625,
 													"top": 997,
-													"width": 29.1708984375,
+													"width": 29.158203125,
 													"height": 13,
 													"text": "(1..*)"
 												},
@@ -6600,7 +6591,7 @@
 													"font": "Arial;13;1",
 													"left": 1341,
 													"top": 997,
-													"width": 25.578125,
+													"width": 24.11181640625,
 													"height": 13,
 													"text": "loop"
 												},
@@ -6633,7 +6624,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1356,
 																	"top": 1030,
-																	"width": 70.08447265625,
+																	"width": 64.04150390625,
 																	"height": 13,
 																	"text": "[createTask]"
 																}
@@ -7363,9 +7354,9 @@
 														"$ref": "AAAAAAGbPEaVznxPSwQ="
 													},
 													"font": "Arial;13;0",
-													"left": 667.578125,
+													"left": 666.11181640625,
 													"top": 1317,
-													"width": 29.1708984375,
+													"width": 29.158203125,
 													"height": 13,
 													"text": "(1..*)"
 												},
@@ -7378,7 +7369,7 @@
 													"font": "Arial;13;1",
 													"left": 637,
 													"top": 1317,
-													"width": 25.578125,
+													"width": 24.11181640625,
 													"height": 13,
 													"text": "loop"
 												},
@@ -7411,7 +7402,7 @@
 																	"font": "Arial;13;0",
 																	"left": 652,
 																	"top": 1350,
-																	"width": 86.70263671875,
+																	"width": 80.666015625,
 																	"height": 13,
 																	"text": "[completeTask]"
 																}
@@ -7909,9 +7900,9 @@
 														"$ref": "AAAAAAGbPFH/53zt4K4="
 													},
 													"font": "Arial;13;0",
-													"left": 353.1708984375,
+													"left": 352.42822265625,
 													"top": 1677,
-													"width": 1770.8291015625,
+													"width": 1771.57177734375,
 													"height": 13,
 													"text": "Submit Product"
 												},
@@ -7924,7 +7915,7 @@
 													"font": "Arial;13;1",
 													"left": 317,
 													"top": 1677,
-													"width": 16.1708984375,
+													"width": 15.42822265625,
 													"height": 13,
 													"text": "ref"
 												}
@@ -8522,7 +8513,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8530,7 +8522,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8538,7 +8531,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role3"
+							"name": "Role3",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8546,7 +8540,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role4"
+							"name": "Role4",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8554,7 +8549,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role5"
+							"name": "Role5",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -8562,7 +8558,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Role6"
+							"name": "Role6",
+							"type": ""
 						}
 					]
 				}
