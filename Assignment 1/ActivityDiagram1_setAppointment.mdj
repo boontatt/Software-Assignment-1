@@ -2164,9 +2164,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 744,
-											"top": 398,
+											"top": 405,
 											"width": 107.67529296875,
-											"height": 26,
+											"height": 13,
 											"alpha": -1.7971012918284472,
 											"distance": 32.38826948140329,
 											"hostEdge": {
@@ -3503,7 +3503,7 @@
 													"left": 1077,
 													"top": 1303,
 													"width": 135,
-													"height": 39,
+													"height": 26,
 													"text": "Notify TeamLeader Appointment Accepted",
 													"wordWrap": true
 												},
@@ -3539,7 +3539,7 @@
 											"left": 1072,
 											"top": 1296,
 											"width": 145,
-											"height": 51,
+											"height": 38,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGbD96sGsXVlls="
 											},
@@ -7486,7 +7486,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbEEXGO8a5cNE="
 							},
-							"name": "Submit Product",
+							"name": "Submit Prototype",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -7746,7 +7746,7 @@
 													"top": 444,
 													"width": 391,
 													"height": 13,
-													"text": "Submit Product"
+													"text": "Submit Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -7839,9 +7839,9 @@
 												"$ref": "AAAAAAGbEEoWWscbQvg="
 											},
 											"font": "Arial;13;0",
-											"left": 528,
+											"left": 523,
 											"top": 386,
-											"width": 96.09716796875,
+											"width": 106.93896484375,
 											"height": 13,
 											"alpha": 1.5855008136772528,
 											"distance": 68.00735254367721,
@@ -7849,7 +7849,7 @@
 												"$ref": "AAAAAAGbEEoWWsccKUc="
 											},
 											"edgePosition": 1,
-											"text": "[Submit Product]"
+											"text": "[Submit Prototype]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -7968,9 +7968,9 @@
 													"font": "Arial;13;0",
 													"left": -408,
 													"top": 200,
-													"width": 127.1435546875,
+													"width": 137.9853515625,
 													"height": 13,
-													"text": "(from Submit Product)"
+													"text": "(from Submit Prototype)"
 												},
 												{
 													"_type": "LabelView",
@@ -8841,9 +8841,9 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": -16,
-													"width": 127.1435546875,
+													"width": 137.9853515625,
 													"height": 13,
-													"text": "(from Submit Product)"
+													"text": "(from Submit Prototype)"
 												},
 												{
 													"_type": "LabelView",
@@ -8933,7 +8933,7 @@
 													"top": 543,
 													"width": 167,
 													"height": 26,
-													"text": "Review Submission Product",
+													"text": "Review Submission Prototype",
 													"wordWrap": true
 												},
 												{
@@ -12277,7 +12277,7 @@
 													"top": 1303,
 													"width": 166,
 													"height": 13,
-													"text": "Withdraw Product"
+													"text": "Withdraw Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -12470,9 +12470,9 @@
 												"$ref": "AAAAAAGbEGZCHMzts9s="
 											},
 											"font": "Arial;13;0",
-											"left": 435,
+											"left": 430,
 											"top": 1304,
-											"width": 88.87353515625,
+											"width": 99.71533203125,
 											"height": 13,
 											"alpha": 3.4652483835852275,
 											"distance": 29.410882339705484,
@@ -12480,7 +12480,7 @@
 												"$ref": "AAAAAAGbEGZCHMzumo0="
 											},
 											"edgePosition": 1,
-											"text": "[revise product]"
+											"text": "[revise prototype]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -13563,9 +13563,9 @@
 													"font": "Arial;13;1",
 													"left": 317,
 													"top": 895,
-													"width": 118,
+													"width": 122.662109375,
 													"height": 13,
-													"text": "Withdraw Product"
+													"text": "Withdraw Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -13598,7 +13598,7 @@
 											"font": "Arial;13;0",
 											"left": 312,
 											"top": 888,
-											"width": 128,
+											"width": 132.662109375,
 											"height": 25,
 											"stereotypeLabel": {
 												"$ref": "AAAAAAGbQG6YNGp5lPM="
@@ -13621,7 +13621,7 @@
 									"containerChangeable": true,
 									"left": 312,
 									"top": 888,
-									"width": 128,
+									"width": 132.662109375,
 									"height": 41,
 									"nameCompartment": {
 										"$ref": "AAAAAAGbQG6YNGp42UA="
@@ -13647,8 +13647,8 @@
 												"$ref": "AAAAAAGbQG7gOGqY5oo="
 											},
 											"font": "Arial;13;0",
-											"left": 464,
-											"top": 888,
+											"left": 466,
+											"top": 887,
 											"width": 57.07177734375,
 											"height": 13,
 											"alpha": 4.045635710042416,
@@ -13670,7 +13670,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 483,
+											"left": 486,
 											"top": 929,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -13691,7 +13691,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 482,
+											"left": 485,
 											"top": 885,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -13710,7 +13710,7 @@
 										"$ref": "AAAAAAGbEFK8Osl9MlE="
 									},
 									"lineStyle": 1,
-									"points": "527:905;440:907",
+									"points": "527:905;445:907",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAGbQG7gOGqamBw="
@@ -13919,7 +13919,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbEEXGO8a5cNE="
 							},
-							"name": "Submit Product",
+							"name": "Submit Prototype",
 							"nodes": [
 								{
 									"_type": "UMLAction",
@@ -13977,7 +13977,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbEEXGO8a5cNE="
 							},
-							"name": "Review Submission Product"
+							"name": "Review Submission Prototype"
 						},
 						{
 							"_type": "UMLAction",
@@ -14235,7 +14235,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbEEXGO8a5cNE="
 							},
-							"name": "[Submit Product]",
+							"name": "[Submit Prototype]",
 							"source": {
 								"$ref": "AAAAAAGbEEmNFcbo2O4="
 							},
@@ -14688,7 +14688,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbEEXGO8a5cNE="
 							},
-							"name": "[revise product]",
+							"name": "[revise prototype]",
 							"source": {
 								"$ref": "AAAAAAGbEGXs2My/6Zg="
 							},
@@ -14876,7 +14876,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbEEXjwsa+wG0="
 									},
-									"name": "Withdraw Product"
+									"name": "Withdraw Prototype"
 								},
 								{
 									"_type": "UMLAction",
@@ -14884,7 +14884,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbEEXjwsa+wG0="
 									},
-									"name": "Withdraw Product"
+									"name": "Withdraw Prototype"
 								}
 							]
 						},

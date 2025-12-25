@@ -3954,7 +3954,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbO+ePknbOzDQ="
 							},
-							"name": "Submit Product",
+							"name": "Submit Prototype",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -3962,7 +3962,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbO+ePknbPwL0="
 									},
-									"name": "Submit Product",
+									"name": "Submit Prototype",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -3981,11 +3981,11 @@
 														"$ref": "AAAAAAGbO+ePknbRwHk="
 													},
 													"font": "Arial;13;0",
-													"left": 118.55908203125,
+													"left": 120.72998046875,
 													"top": 29,
-													"width": 82.25634765625,
+													"width": 100.71533203125,
 													"height": 13,
-													"text": "Submit Product"
+													"text": "Submit Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -3996,7 +3996,7 @@
 													"font": "Arial;13;1",
 													"left": 101,
 													"top": 29,
-													"width": 12.55908203125,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "sd"
 												}
@@ -4064,9 +4064,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -4177,9 +4177,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -4269,7 +4269,7 @@
 														"$ref": "AAAAAAGbPAbjdXcmXzo="
 													},
 													"edgePosition": 1,
-													"text": "1 : submitProduct(prototype, documentation)"
+													"text": "1 : submitPrototype(prototype, documentation)"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -4370,9 +4370,9 @@
 														"$ref": "AAAAAAGbPAgCxHc9Ac8="
 													},
 													"font": "Arial;13;0",
-													"left": 763,
+													"left": 755,
 													"top": 139,
-													"width": 229.7724609375,
+													"width": 244.9560546875,
 													"height": 13,
 													"alpha": 1.579723660177603,
 													"distance": 112.0044641967453,
@@ -4478,9 +4478,9 @@
 														"$ref": "AAAAAAGbPAmz/ndZjY0="
 													},
 													"font": "Arial;13;0",
-													"left": 199.99365234375,
+													"left": 200.72998046875,
 													"top": 213,
-													"width": 137.474609375,
+													"width": 146.2216796875,
 													"height": 13,
 													"text": "FulfillProjectRequirement"
 												},
@@ -4493,7 +4493,7 @@
 													"font": "Arial;13;1",
 													"left": 181,
 													"top": 213,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -4526,7 +4526,7 @@
 																	"font": "Arial;13;0",
 																	"left": 196,
 																	"top": 246,
-																	"width": 21.658203125,
+																	"width": 21.68359375,
 																	"height": 13,
 																	"text": "[no]"
 																}
@@ -4559,7 +4559,7 @@
 																	"font": "Arial;13;0",
 																	"left": 196,
 																	"top": 528,
-																	"width": 25.9873046875,
+																	"width": 27.45361328125,
 																	"height": 13,
 																	"text": "[yes]"
 																}
@@ -4724,9 +4724,9 @@
 														"$ref": "AAAAAAGbPA53B3hDzyc="
 													},
 													"font": "Arial;13;0",
-													"left": 259.61181640625,
+													"left": 261.07177734375,
 													"top": 317,
-													"width": 50.83544921875,
+													"width": 55.9072265625,
 													"height": 13,
 													"text": "Resubmit"
 												},
@@ -4739,7 +4739,7 @@
 													"font": "Arial;13;1",
 													"left": 237,
 													"top": 317,
-													"width": 17.61181640625,
+													"width": 19.07177734375,
 													"height": 13,
 													"text": "opt"
 												},
@@ -4772,7 +4772,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 350,
-																	"width": 54.15185546875,
+																	"width": 57.07177734375,
 																	"height": 13,
 																	"text": "[resubmit]"
 																}
@@ -4831,11 +4831,11 @@
 														"$ref": "AAAAAAGbPBYyd3ixiBI="
 													},
 													"font": "Arial;13;0",
-													"left": 352.42822265625,
+													"left": 353.1708984375,
 													"top": 397,
-													"width": 635.57177734375,
+													"width": 634.8291015625,
 													"height": 13,
-													"text": "Submit Product"
+													"text": "Submit Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -4846,7 +4846,7 @@
 													"font": "Arial;13;1",
 													"left": 317,
 													"top": 397,
-													"width": 15.42822265625,
+													"width": 16.1708984375,
 													"height": 13,
 													"text": "ref"
 												}
@@ -4886,9 +4886,9 @@
 														"$ref": "AAAAAAGbPBq8kHjgwj0="
 													},
 													"font": "Arial;13;0",
-													"left": 483,
+													"left": 478,
 													"top": 336,
-													"width": 122.82080078125,
+													"width": 133.66259765625,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -4896,7 +4896,7 @@
 														"$ref": "AAAAAAGbPBq8kHjhyEs="
 													},
 													"edgePosition": 1,
-													"text": "4 : withdrawProduct()"
+													"text": "4 : withdrawPrototype()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -4997,9 +4997,9 @@
 														"$ref": "AAAAAAGbPB3OL3ke8dM="
 													},
 													"font": "Arial;13;0",
-													"left": 463,
+													"left": 458,
 													"top": 546,
-													"width": 161.12890625,
+													"width": 171.970703125,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -5007,7 +5007,7 @@
 														"$ref": "AAAAAAGbPB3OL3kfZ7I="
 													},
 													"edgePosition": 1,
-													"text": "5 : notifyProductSubmitted()"
+													"text": "5 : notifyPrototypeSubmitted()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -5141,9 +5141,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -64,
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -5332,9 +5332,9 @@
 														"$ref": "AAAAAAGbPCCVeHmqdrQ="
 													},
 													"font": "Arial;13;0",
-													"left": 255.99365234375,
+													"left": 256.72998046875,
 													"top": 621,
-													"width": 111.50634765625,
+													"width": 121.64990234375,
 													"height": 13,
 													"text": "ReviewSubmmission"
 												},
@@ -5347,7 +5347,7 @@
 													"font": "Arial;13;1",
 													"left": 237,
 													"top": 621,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -5380,7 +5380,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 654,
-																	"width": 103.61279296875,
+																	"width": 114.16259765625,
 																	"height": 13,
 																	"text": "[accept submission]"
 																}
@@ -5413,7 +5413,7 @@
 																	"font": "Arial;13;0",
 																	"left": 252,
 																	"top": 760,
-																	"width": 109.73828125,
+																	"width": 117.7744140625,
 																	"height": 13,
 																	"text": "[request for revision]"
 																}
@@ -5911,9 +5911,9 @@
 														"$ref": "AAAAAAGbPCUuAnpIgmA="
 													},
 													"font": "Arial;13;0",
-													"left": 275.61181640625,
+													"left": 277.07177734375,
 													"top": 861,
-													"width": 89.82275390625,
+													"width": 97.08447265625,
 													"height": 13,
 													"text": "PerformRevision"
 												},
@@ -5926,7 +5926,7 @@
 													"font": "Arial;13;1",
 													"left": 253,
 													"top": 861,
-													"width": 17.61181640625,
+													"width": 19.07177734375,
 													"height": 13,
 													"text": "opt"
 												},
@@ -6051,9 +6051,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -6133,9 +6133,9 @@
 														"$ref": "AAAAAAGbPFF06XzUa5Q="
 													},
 													"font": "Arial;13;0",
-													"left": 476,
+													"left": 472,
 													"top": 896,
-													"width": 130.05078125,
+													"width": 139.927734375,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 10,
@@ -6143,7 +6143,7 @@
 														"$ref": "AAAAAAGbPFF06nzVAJU="
 													},
 													"edgePosition": 1,
-													"text": "11 : withdrawProduct()"
+													"text": "11 : withdrawPrototype()"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -6497,9 +6497,9 @@
 															},
 															"visible": false,
 															"font": "Arial;13;0",
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -6576,9 +6576,9 @@
 														"$ref": "AAAAAAGbPCxK9nsDYoc="
 													},
 													"font": "Arial;13;0",
-													"left": 1370.11181640625,
+													"left": 1371.578125,
 													"top": 997,
-													"width": 29.158203125,
+													"width": 29.1708984375,
 													"height": 13,
 													"text": "(1..*)"
 												},
@@ -6591,7 +6591,7 @@
 													"font": "Arial;13;1",
 													"left": 1341,
 													"top": 997,
-													"width": 24.11181640625,
+													"width": 25.578125,
 													"height": 13,
 													"text": "loop"
 												},
@@ -6624,7 +6624,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1356,
 																	"top": 1030,
-																	"width": 64.04150390625,
+																	"width": 70.08447265625,
 																	"height": 13,
 																	"text": "[createTask]"
 																}
@@ -6939,9 +6939,9 @@
 															"visible": false,
 															"font": "Arial;13;0",
 															"left": -208,
-															"width": 127.1435546875,
+															"width": 137.9853515625,
 															"height": 13,
-															"text": "(from Submit Product)"
+															"text": "(from Submit Prototype)"
 														},
 														{
 															"_type": "LabelView",
@@ -7354,9 +7354,9 @@
 														"$ref": "AAAAAAGbPEaVznxPSwQ="
 													},
 													"font": "Arial;13;0",
-													"left": 666.11181640625,
+													"left": 667.578125,
 													"top": 1317,
-													"width": 29.158203125,
+													"width": 29.1708984375,
 													"height": 13,
 													"text": "(1..*)"
 												},
@@ -7369,7 +7369,7 @@
 													"font": "Arial;13;1",
 													"left": 637,
 													"top": 1317,
-													"width": 24.11181640625,
+													"width": 25.578125,
 													"height": 13,
 													"text": "loop"
 												},
@@ -7402,7 +7402,7 @@
 																	"font": "Arial;13;0",
 																	"left": 652,
 																	"top": 1350,
-																	"width": 80.666015625,
+																	"width": 86.70263671875,
 																	"height": 13,
 																	"text": "[completeTask]"
 																}
@@ -7900,11 +7900,11 @@
 														"$ref": "AAAAAAGbPFH/53zt4K4="
 													},
 													"font": "Arial;13;0",
-													"left": 352.42822265625,
+													"left": 353.1708984375,
 													"top": 1677,
-													"width": 1771.57177734375,
+													"width": 1770.8291015625,
 													"height": 13,
-													"text": "Submit Product"
+													"text": "Submit Prototype"
 												},
 												{
 													"_type": "LabelView",
@@ -7915,7 +7915,7 @@
 													"font": "Arial;13;1",
 													"left": 317,
 													"top": 1677,
-													"width": 15.42822265625,
+													"width": 16.1708984375,
 													"height": 13,
 													"text": "ref"
 												}
@@ -7945,7 +7945,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbO+ePknbPwL0="
 									},
-									"name": "submitProduct",
+									"name": "submitPrototype",
 									"source": {
 										"$ref": "AAAAAAGbPAXFbnbkjeU="
 									},
@@ -7991,7 +7991,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbO+ePknbPwL0="
 									},
-									"name": "withdrawProduct()",
+									"name": "withdrawPrototype()",
 									"source": {
 										"$ref": "AAAAAAGbPAXFbnbkjeU="
 									},
@@ -8005,7 +8005,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbO+ePknbPwL0="
 									},
-									"name": "notifyProductSubmitted()",
+									"name": "notifyPrototypeSubmitted()",
 									"source": {
 										"$ref": "AAAAAAGbPAbESncGA5Y="
 									},
@@ -8096,7 +8096,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbO+ePknbPwL0="
 									},
-									"name": "withdrawProduct()",
+									"name": "withdrawPrototype()",
 									"source": {
 										"$ref": "AAAAAAGbPAXFbnbkjeU="
 									},

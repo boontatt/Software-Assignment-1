@@ -1661,7 +1661,7 @@
 													"top": 519,
 													"width": 158,
 													"height": 13,
-													"text": "do/review product",
+													"text": "do/review submission",
 													"horizontalAlignment": 0
 												}
 											],
@@ -1751,7 +1751,7 @@
 												"$ref": "AAAAAAGbPPwwmXbLA30="
 											},
 											"edgePosition": 1,
-											"text": " [fulfill product requirement]"
+											"text": " [fulfill project requirement]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2021,7 +2021,7 @@
 												"$ref": "AAAAAAGbPP2NZXcE3uY="
 											},
 											"edgePosition": 1,
-											"text": "[Didn't fulfill product requirement]"
+											"text": "[Didn't fulfill project requirement]"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2736,12 +2736,12 @@
 												"$ref": "AAAAAAGbPQOV23grhVY="
 											},
 											"font": "Arial;13;0",
-											"left": 1799,
-											"top": 664,
+											"left": 1720,
+											"top": 631,
 											"width": 235.55517578125,
 											"height": 13,
-											"alpha": 1.8618960613531748,
-											"distance": 42.720018726587654,
+											"alpha": -1.3227967415929909,
+											"distance": 43.46262762420146,
 											"hostEdge": {
 												"$ref": "AAAAAAGbPQOV3HgsLoI="
 											},
@@ -3016,7 +3016,7 @@
 												"$ref": "AAAAAAGbPQR21XhntzI="
 											},
 											"edgePosition": 1,
-											"text": "accept product"
+											"text": "accept submission"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3677,7 +3677,7 @@
 												"$ref": "AAAAAAGbPTzl0Xtx7LQ="
 											},
 											"edgePosition": 1,
-											"text": "perform revision / withdraw product"
+											"text": "perform revision / withdraw prototype"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3761,17 +3761,17 @@
 												"$ref": "AAAAAAGbPUH0IXvhGOc="
 											},
 											"font": "Arial;13;0",
-											"left": 1800,
+											"left": 1799,
 											"top": 336,
-											"width": 85.26171875,
+											"width": 96.103515625,
 											"height": 13,
-											"alpha": 1.723371300552168,
-											"distance": 50.00999900019995,
+											"alpha": 1.7051650162675172,
+											"distance": 54.91812087098393,
 											"hostEdge": {
 												"$ref": "AAAAAAGbPUH0IXvi/IY="
 											},
 											"edgePosition": 1,
-											"text": "submit product"
+											"text": "submit prototype"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -4140,9 +4140,9 @@
 												"$ref": "AAAAAAGbP3T483zd4k4="
 											},
 											"font": "Arial;13;0",
-											"left": 1503,
+											"left": 1498,
 											"top": 574,
-											"width": 158.95166015625,
+											"width": 169.79345703125,
 											"height": 13,
 											"alpha": -2.1234934271281976,
 											"distance": 251.4358765172544,
@@ -4150,7 +4150,7 @@
 												"$ref": "AAAAAAGbP3T483zepJg="
 											},
 											"edgePosition": 1,
-											"text": "resubmit / withdraw product"
+											"text": "resubmit / withdraw prototype"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -4394,7 +4394,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbPPvi03ail0U="
 											},
-											"name": "review product"
+											"name": "review submission"
 										}
 									]
 								},
@@ -4733,7 +4733,7 @@
 									"target": {
 										"$ref": "AAAAAAGbPPvi03ail0U="
 									},
-									"guard": "fulfill product requirement"
+									"guard": "fulfill project requirement"
 								},
 								{
 									"_type": "UMLTransition",
@@ -4741,7 +4741,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGbPJV9AnPKjzc="
 									},
-									"name": "[Didn't fulfill product requirement]",
+									"name": "[Didn't fulfill project requirement]",
 									"source": {
 										"$ref": "AAAAAAGbPPuD93Z8N28="
 									},
@@ -4881,7 +4881,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbPQR21XhmQIk="
 											},
-											"name": "accept product"
+											"name": "accept submission"
 										}
 									]
 								},
@@ -5181,7 +5181,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbPTzl0XtwBWU="
 											},
-											"name": "withdraw product"
+											"name": "withdraw prototype"
 										}
 									]
 								},
@@ -5227,7 +5227,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbPUH0IXvhGOc="
 											},
-											"name": "submit product"
+											"name": "submit prototype"
 										}
 									]
 								},
@@ -5320,7 +5320,7 @@
 											"_parent": {
 												"$ref": "AAAAAAGbP3T483zd4k4="
 											},
-											"name": "withdraw product"
+											"name": "withdraw prototype"
 										}
 									]
 								}
